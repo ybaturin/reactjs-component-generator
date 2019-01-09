@@ -5,7 +5,7 @@ interface {{name_pc}}Props {
 
 }
 
-export default class {{name_pc}} extends Component<{{name_pc}}Props> {
+export class {{name_pc}} extends Component<{{name_pc}}Props> {
     render() {
         return (
             <div className="woo-{{name_sc}}">
