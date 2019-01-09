@@ -1,7 +1,7 @@
 module.exports = {
   WIZARD: 'wizard',
   COMPONENT: 'component',
-  TSC: 'TSC',
+  TSC: 'tsc',
   STORE: 'store',
   VIEW: 'view',
   STYLEDCOMPONENT:'styled-component',
