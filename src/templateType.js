@@ -2,7 +2,7 @@ module.exports = {
   VIEW: 'view',
   STORE: 'store',
   COMPONENT: 'component',
-  TSC: 'TSC',
+  TSC: 'tsc',
   PAGE: 'page',
   TSPAGE: 'tspage',
   STYLEDCOMPONENT:'styled-component',

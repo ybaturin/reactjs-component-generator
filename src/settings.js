@@ -9,7 +9,7 @@ const defaultSettings = {
   viewDestination: './src/view/',
   storeDestination: './src/store/',
   componentDestination: './src/components/',
-  tscomponentDestination: './components/',
+  tscDestination: './',
   pageDestination: './src/pages/',
   tspageDestination: './pages/',
   templatePath: ''

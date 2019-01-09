@@ -29,7 +29,7 @@ exports.getGeneratorQuestions = function (type, settings, name) {
       break;
     }
     case wizardType.TSCOMPONENT: {
-      questions = [askName(name), askDestination(templateType.TSCOMPONENT, settings.tscomponentDestination)];
+      questions = [askName(name), askDestination(templateType.TSC, settings.tscDestination)];
       break;
     }
     case wizardType.PAGE: {
