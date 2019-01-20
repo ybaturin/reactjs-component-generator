@@ -13,4 +13,4 @@ export class {{name_pc}} extends Component<{{name_pc}}Props> {
             </div>
         )
     }
-};
+}
