@@ -8,7 +8,7 @@ const chalk = require('chalk');
 const defaultSettings = {
   viewDestination: './src/view/',
   storeDestination: './src/store/',
-  componentDestination: './src/components/',
+  componentDestination: './',
   tscDestination: './',
   pageDestination: './src/pages/',
   tspageDestination: './pages/',
